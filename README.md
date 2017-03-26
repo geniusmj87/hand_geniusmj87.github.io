@@ -1,2 +1,1 @@
-# hand_code_geniusmj87
-# hand_geniusmj87.github.io
+손으로 직접 코딩한 첫번째 홈페이지 입니다.
